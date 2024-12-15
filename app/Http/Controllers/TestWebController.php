@@ -16,10 +16,4 @@ class TestWebController extends Controller
     public function testController(){
         return "test controller";
     }
-
-    public function testData()
-    {
-        return "Test Data";
-
-    }
 }
