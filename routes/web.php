@@ -31,5 +31,6 @@ Route::middleware('auth')->group(function () {
 Route::get('/test',[TestWebController::class,'test']);
 Route::get('/test/data',[TestWebController::class,'testData']);
 Route::get('/test/data/details',[TestWebController::class,'testDataDetails']);
+Route::get('/test/controller',[TestWebController::class,'testController']);
 
 require __DIR__.'/auth.php';

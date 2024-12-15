@@ -12,4 +12,7 @@ class TestWebController extends Controller
     public function testDataDetails(){
         return 'test details';
     }
+    public function testController(){
+        return "test controller";
+    }
 }
