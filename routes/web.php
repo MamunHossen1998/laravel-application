@@ -30,7 +30,10 @@ Route::middleware('auth')->group(function () {
 });
 Route::get('/test',[TestWebController::class,'test']);
 Route::get('/test/data',[TestWebController::class,'testData']);
+<<<<<<< HEAD
 Route::get('/test/data/details',[TestWebController::class,'testDataDetails']);
 Route::get('/test/controller',[TestWebController::class,'testController']);
+=======
+>>>>>>> 8003b5683cde8d4baa1b2ade3dff5c84ff4bd98b
 
 require __DIR__.'/auth.php';
