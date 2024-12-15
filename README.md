@@ -63,4 +63,43 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).  
+
+<!-- comment line-->
+Mamun<br>
+Hossen
+
+---
+I love u   
+_I like u_  
+__I choose u__  
+~~Assalamualikum~~  
+```
+Hello
+kemon acheo
+```
+```javascript
+console.log('hi')
+```
+- item one
+    - item none to none
+- item two
+- item three
+- item four  
+## orderlist
+    1.one
+        1.1 one one
+    2.two
+    3.three
+## Link
+`https://mzamin.com/`
+## Markdown link syntax
+[manabzamin](https://mzamin.com/)  
+## Image syntax
+![not found](public/image/test.jpeg)
+
+## Table syntax
+|Name|Email
+|-----|----|
+|Mamun|test@gmail.com|
+|Asik|asik@gmail.com|
