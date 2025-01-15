@@ -33,5 +33,6 @@ Route::get('/test/data',[TestWebController::class,'testData']);
 Route::get('/test/data/details',[TestWebController::class,'testDataDetails']);
 Route::get('/test/controller',[TestWebController::class,'testController']);
 Route::get('/test/ddd',[TestWebController::class,'dd']);
+Route::get('/test/bb',[TestWebController::class,'bb']);
 
 require __DIR__.'/auth.php';
